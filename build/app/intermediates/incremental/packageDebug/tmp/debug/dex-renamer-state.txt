@@ -1,0 +1,4 @@
+#Fri Oct 08 19:47:10 EET 2021
+base.0=D\:\\Ahmed Bassem\\as_projects\\food_recipe\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
